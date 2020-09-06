@@ -1,5 +1,4 @@
 # F1-B-V2-MKS
-F1-B V2  MKS
 There are 2 firmware files: lite_cfg    mkslite.bin
 The lite_cfg file is in text format,  can be modified, and some settings of the 3D printer can be changed, 
 such as stepping motor step value, XYZ movement direction, PID temperature control setting, WIFI, etc.
