@@ -14,3 +14,10 @@ Needs to be save with TF card in the first-level directory.
 TF card files can only be updated once.
 After the update, the files in the TF card are automatically invalid (can be deleted).
 Need to update again. Copy the 2 files lite_cfg   mkslite.bin to the TF card again, and do it again.
+
+
+Manual sliding XY is normal
+Enter the automatic leveling hot bed, (you can manually fine-tune the knob under the hot bed)
+The printing material of the test piece is PLA,
+Retraction setting: speed 25mm/s, retraction length 6mm
+The first layer printing speed is less than 20mm/s
